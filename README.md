@@ -1,6 +1,6 @@
 # expense_tracker
 
-An expense tracker Flutter application is a tool that helps users monitor, manage, and analyze their spending habits. It typically includes features to track various expenses, set budgets, visualize spending patterns, and provide insights into where money is being allocated.
+The Xpense is an expense tracker Flutter application is a tool that helps users monitor, manage, and analyze their spending habits. It typically includes features to track various expenses, set budgets, visualize spending patterns, and provide insights into where money is being allocated.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
